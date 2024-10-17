@@ -1,0 +1,3 @@
+.reg-islBtn{height: 100px; --background: #4195bf;  }
+.reg-islBtn::part(native) {line-height: 1.2rem !important;}
+#islandMap{height: 95%;}

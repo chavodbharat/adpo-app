@@ -1,0 +1,2 @@
+.reg-islBtn{height: 100px; --background: #0f5783;  margin: 0; }
+.reg-islBtn::part(native) {line-height: 1.2rem !important;}

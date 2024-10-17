@@ -1,0 +1,4 @@
+IonButton:native{--padding-start: 0; margin-top: 4px;}
+.popupContentStart{--offset-y: -120px !important;}
+.popupContentEnd{--offset-y: -170px !important}
+.listsContent{padding-top: 5px;}

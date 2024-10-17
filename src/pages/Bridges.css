@@ -1,0 +1,2 @@
+.bridgeBtn{height: 100px; --background: #0f5783;}
+.bridgeBtn::part(native) {line-height: 1.2rem !important;}

@@ -1,0 +1,10 @@
+
+h3{font-style: italic;}
+ion-text{margin: 5px;}
+
+.signBtn{height: 100px; --background: #0f5783;}
+.signBtn::part(native) {line-height: 1.2rem !important;}
+
+.img-square{width: 20%}
+.img-tall{width: 10%}
+.img-wide{width: 90%}

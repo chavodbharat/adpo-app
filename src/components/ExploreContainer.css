@@ -1,0 +1,10 @@
+
+ion-card{ color: #fff; border-radius: 20px; padding-bottom: 40px; margin: 6px; height: 250px;}
+.lightCard{background: #4195bf;}
+.darkCard{background: #0f5783;}
+.cardItem{--background: transparent;}
+.cardItem ion-icon {font-size: 75px; color: #fff;}
+ion-icon.indexIcon{color:#ffffff;}
+ion-card-title{font-size: 1.3em;}
+ion-card-subtitle{font-size: 1.3em; font-weight: 300;}
+.footerBar{border: 4px solid #0b4061; border-bottom: 0 none;  /*height: 300px;*/  margin: 0 3rem;  border-radius: 20px 20px 0 0;  padding: 5px;}

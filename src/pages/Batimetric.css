@@ -1,0 +1,2 @@
+.ruleBtn{height: 100px; --background: #0f5783;}
+.ruleBtn::part(native) {line-height: 1.2rem !important;}

@@ -1,0 +1,7 @@
+{
+  "name": "Portolano del Po",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

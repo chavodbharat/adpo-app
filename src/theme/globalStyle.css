@@ -1,0 +1,13 @@
+/*.header-md::after {background-image: unset;}*/
+
+h1.mainTit{ font-size: 2rem; font-weight: normal; margin-right: 0px;}
+h1.subTit{padding-left: 2rem; font-size: 2rem; font-weight: lighter;}
+
+#logoAipo{width: 60%; left: 20%; margin-left: 0px;}
+#logoAdbpo{width: 90%; left: 10%; margin-left: 0px;}
+.footerBar ion-img{position: relative;}
+@media only screen and (min-width: 600px)
+{
+  #logoAipo{width: 24%; left: 38%;}
+  #logoAdbpo{width: 56%; left: 22%;}
+}
